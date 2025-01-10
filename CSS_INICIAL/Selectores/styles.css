@@ -1,0 +1,26 @@
+* {
+    color: rgb(198, 220, 27)
+}
+
+h1 {
+    color: rgb(230, 245, 245);
+    font-style: cadetblue;
+    text-align: center;
+}
+
+.borde_redondo {
+    border: solid 2px gray;
+    border-radius: 15px;
+}
+
+#pie {
+    background-color: #1273e7;
+}
+
+#pie h4 {
+    color: ghostwhite;
+}
+
+article img {
+    width: 100px;
+}
